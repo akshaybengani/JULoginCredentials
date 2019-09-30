@@ -1,5 +1,6 @@
 # JULoginCredentials
 It is an open source database of WiFi Login Credentials, Please contribute in the project. We all need such database, so why not start from here.
+Its a help for your juniors which will directly or indirectly help you in becoming the boss of the college.
 
 Share this project with your seniors and passed out students of JECRC University and if you have plenty of accounts then your small contribution can save someone's mobile data.
 
